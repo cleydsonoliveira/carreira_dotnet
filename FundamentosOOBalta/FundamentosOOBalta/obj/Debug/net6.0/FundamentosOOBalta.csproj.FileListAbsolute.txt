@@ -1,0 +1,15 @@
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\bin\Debug\net6.0\FundamentosOOBalta.exe
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\bin\Debug\net6.0\FundamentosOOBalta.deps.json
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\bin\Debug\net6.0\FundamentosOOBalta.runtimeconfig.json
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\bin\Debug\net6.0\FundamentosOOBalta.dll
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\bin\Debug\net6.0\FundamentosOOBalta.pdb
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\FundamentosOOBalta.csproj.AssemblyReference.cache
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\FundamentosOOBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\FundamentosOOBalta.AssemblyInfoInputs.cache
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\FundamentosOOBalta.AssemblyInfo.cs
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\FundamentosOOBalta.csproj.CoreCompileInputs.cache
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\FundamentosOOBalta.dll
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\refint\FundamentosOOBalta.dll
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\FundamentosOOBalta.pdb
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\FundamentosOOBalta.genruntimeconfig.cache
+C:\Users\Cleyd\source\repos\FundamentosOOBalta\FundamentosOOBalta\obj\Debug\net6.0\ref\FundamentosOOBalta.dll
