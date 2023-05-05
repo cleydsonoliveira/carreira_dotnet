@@ -1,0 +1,15 @@
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\bin\Debug\net6.0\BaltaOO.exe
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\bin\Debug\net6.0\BaltaOO.deps.json
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\bin\Debug\net6.0\BaltaOO.runtimeconfig.json
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\bin\Debug\net6.0\BaltaOO.dll
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\bin\Debug\net6.0\BaltaOO.pdb
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\BaltaOO.csproj.AssemblyReference.cache
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\BaltaOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\BaltaOO.AssemblyInfoInputs.cache
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\BaltaOO.AssemblyInfo.cs
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\BaltaOO.csproj.CoreCompileInputs.cache
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\BaltaOO.dll
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\refint\BaltaOO.dll
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\BaltaOO.pdb
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\BaltaOO.genruntimeconfig.cache
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaOO\obj\Debug\net6.0\ref\BaltaOO.dll

@@ -4,23 +4,34 @@
     {
         static void Main(string[] args)
         {
-            //Propriedades, eventos e métodos
-            //Um objeto sempre é um tipo de referência
-            // -> Endereço dos dados
+            var payments = new List<Payment>();
+            payments.Add(new Payment(1));
+            payments.Add(new Payment(2));
+            payments.Add(new Payment(3));
+            payments.Add(new Payment(4));
+            payments.Add(new Payment(5));
 
-            Console.WriteLine("Hello!");
+            foreach (var item in payments)
+            {
+                Console.WriteLine(item.Id);
+            }
 
-            var pagamento = new Pagamento();
+            var payment = payments.First(x => x.Id == 3);
+            Console.WriteLine(payment.Id);
+
+            payments.Remove(payment);
+            foreach (var item in payments)
+            {
+                Console.WriteLine(item.Id);
+            }
         }
     }
-
-    //Private, Protected, Internal e Public
-    class Pagamento
+    public class Payment
     {
-        public virtual void Pagar(string numero) { }
-    }
-    class PagamentoCartaoCredito : Pagamento
-    {
-        public override void Pagar(string numero) { }
+        public int Id { get; set; }
+        public Payment(int id)
+        {
+            Id = id;
+        }
     }
 }
