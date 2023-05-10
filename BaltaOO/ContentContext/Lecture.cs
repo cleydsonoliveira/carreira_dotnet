@@ -1,8 +1,9 @@
+using BaltaOO.ContentContext;
 using BaltaOO.ContentContext.Enums;
 
 namespace ContentContext
 {
-    public class Lecture
+    public class Lecture : Base
     {
         public int Ordem { get; set; }
         public string Title { get; set; }
