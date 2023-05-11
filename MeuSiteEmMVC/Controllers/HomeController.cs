@@ -1,5 +1,6 @@
 ﻿using MeuSiteEmMVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using MeuSiteEmMVC.Models;
 using System.Diagnostics;
 
 namespace MeuSiteEmMVC.Controllers
@@ -8,7 +9,11 @@ namespace MeuSiteEmMVC.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            HomeModel home = new HomeModel();
+            home.Nome = "Acaciano neves";
+            home.Email = "acaciano@gmail.com";
+
+            return View(home);
         }
 
         public IActionResult Privacy()
