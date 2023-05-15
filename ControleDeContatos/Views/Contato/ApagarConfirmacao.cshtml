@@ -7,5 +7,5 @@
 </div>
 <div class="d-grid gap-1">
     <a class="btn btn-primary" role="button" asp-controller="Contato" asp-action="Index">Cancelar</a>
-    <a class="btn btn-danger" role="button" asp-controller="Contato" asp-action="Apagar">Confirmar exclusão</a>
+    <a class="btn btn-danger" role="button" asp-controller="Contato" asp-action="Apagar"  asp-route-id="@Model.Id">Confirmar exclusão</a>
 </div>
