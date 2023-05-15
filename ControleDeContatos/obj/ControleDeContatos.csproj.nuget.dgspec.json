@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\ControleDeContatos\\ControleDeContatos.csproj": {}
+    "C:\\Users\\Cleydson\\workspace\\carreira_dotnet\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\ControleDeContatos\\ControleDeContatos.csproj": {
+    "C:\\Users\\Cleydson\\workspace\\carreira_dotnet\\ControleDeContatos\\ControleDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectUniqueName": "C:\\Users\\Cleydson\\workspace\\carreira_dotnet\\ControleDeContatos\\ControleDeContatos.csproj",
         "projectName": "ControleDeContatos",
-        "projectPath": "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\ControleDeContatos\\ControleDeContatos.csproj",
-        "packagesPath": "C:\\Users\\Cleyd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\ControleDeContatos\\obj\\",
+        "projectPath": "C:\\Users\\Cleydson\\workspace\\carreira_dotnet\\ControleDeContatos\\ControleDeContatos.csproj",
+        "packagesPath": "C:\\Users\\Cleydson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cleydson\\workspace\\carreira_dotnet\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cleyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Cleydson\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
