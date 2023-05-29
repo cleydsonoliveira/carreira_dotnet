@@ -167,3 +167,8 @@ C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\
 C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.pdb
 C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.genruntimeconfig.cache
 C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\ref\ControleDeContatos.dll
+C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\staticwebassets\msbuild.ControleDeContatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\staticwebassets\msbuild.build.ControleDeContatos.props
+C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ControleDeContatos.props
+C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ControleDeContatos.props
+C:\Users\Cleydson\workspace\carreira_dotnet\ControleDeContatos\obj\Debug\net6.0\staticwebassets.pack.json
