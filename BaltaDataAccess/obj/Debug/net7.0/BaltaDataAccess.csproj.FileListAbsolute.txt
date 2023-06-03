@@ -1,0 +1,15 @@
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.exe
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.deps.json
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.runtimeconfig.json
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.dll
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.pdb
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.AssemblyReference.cache
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfoInputs.cache
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfo.cs
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.dll
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\refint\BaltaDataAccess.dll
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.pdb
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.genruntimeconfig.cache
+C:\Users\Cleyd\workspace\carreira_dotnet\BaltaDataAccess\obj\Debug\net7.0\ref\BaltaDataAccess.dll
