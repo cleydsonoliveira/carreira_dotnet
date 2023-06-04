@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/home/cleydsonoliveira/workspace/carreira_dotnet/Shop/Shop.csproj": {}
+    "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "/home/cleydsonoliveira/workspace/carreira_dotnet/Shop/Shop.csproj": {
+    "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cleydsonoliveira/workspace/carreira_dotnet/Shop/Shop.csproj",
+        "projectUniqueName": "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "/home/cleydsonoliveira/workspace/carreira_dotnet/Shop/Shop.csproj",
-        "packagesPath": "/home/cleydsonoliveira/.nuget/packages/",
-        "outputPath": "/home/cleydsonoliveira/workspace/carreira_dotnet/Shop/obj/",
+        "projectPath": "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\Cleyd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cleyd\\workspace\\carreira_dotnet\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/cleydsonoliveira/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Cleyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,11 +49,23 @@
               "target": "Package",
               "version": "[7.0.5, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
             },
@@ -78,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
