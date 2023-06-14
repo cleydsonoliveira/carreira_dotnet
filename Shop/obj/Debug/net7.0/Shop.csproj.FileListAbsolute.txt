@@ -33,7 +33,6 @@ C:/Users/Cleyd/workspace/carreira_dotnet/Shop/obj/Debug/net7.0/Shop.genruntimeco
 C:/Users/Cleyd/workspace/carreira_dotnet/Shop/obj/Debug/net7.0/ref/Shop.dll
 C:/Users/Cleyd/workspace/carreira_dotnet/Shop/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
 C:/Users/Cleyd/workspace/carreira_dotnet/Shop/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-C:/Users/Cleyd/workspace/carreira_dotnet/Shop/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
 /home/cleydsonoliveira/workspace/carreira_dotnet/Shop/bin/Debug/net7.0/appsettings.Development.json
 /home/cleydsonoliveira/workspace/carreira_dotnet/Shop/bin/Debug/net7.0/appsettings.json
 /home/cleydsonoliveira/workspace/carreira_dotnet/Shop/bin/Debug/net7.0/Shop
@@ -84,7 +83,6 @@ C:\Users\Cleyd\workspace\carreira_dotnet\Shop\bin\Debug\net7.0\Microsoft.Bcl.Asy
 C:\Users\Cleyd\workspace\carreira_dotnet\Shop\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
 C:\Users\Cleyd\workspace\carreira_dotnet\Shop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Cleyd\workspace\carreira_dotnet\Shop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Cleyd\workspace\carreira_dotnet\Shop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\Cleyd\workspace\carreira_dotnet\Shop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Cleyd\workspace\carreira_dotnet\Shop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Cleyd\workspace\carreira_dotnet\Shop\bin\Debug\net7.0\Microsoft.Identity.Client.dll

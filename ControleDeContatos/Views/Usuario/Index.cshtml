@@ -5,7 +5,7 @@
 }
 <div class="text-center">
     <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <a class="btn btn-primary" role="button" asp-controller="Contato" asp-action="Criar">Adiconar novo usuário</a>
+        <a class="btn btn-primary" role="button" asp-controller="Usuario" asp-action="Criar">Adiconar novo usuário</a>
     </div>
     <br />
 
@@ -37,6 +37,7 @@
                 <th scope="col">Login</th>
                 <th scope="col">Email</th>
                 <th scope="col">Data de cadastro</th>
+                <th scope="col">Data Atualização</th>
                 <th scope="col"></th>
             </tr>
         </thead>
@@ -51,6 +52,7 @@
                         <td>@usuario.Login</td>
                         <td>@usuario.Email</td>
                         <td>@usuario.DataCadastro</td>
+                        <td>@usuario.DataAtualizacao</td>
                         <td>
                             <div class="btn-group btn-group-sm" role="group">
                                 <a role="button" class="btn btn-primary" asp-route-id="@usuario.Id" asp-controller="Usuario"
@@ -65,7 +67,7 @@
             else
             {
                 <tr class="odd">
-                    <td valign="top" colspan="5">
+                    <td valign="top" colspan="6">
                         Nenhum usuário encontrado.
                     </td>
                 </tr>
