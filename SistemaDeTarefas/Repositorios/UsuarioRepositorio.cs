@@ -58,4 +58,45 @@ namespace SistemaDeTarefas.Repositorios
             return true;
         }
     }
-}
+
+
+public static class TarefaModelEndpoints
+{
+	public static void MapTarefaModelEndpoints (this IEndpointRouteBuilder routes)
+    {
+        routes.MapGet("/api/TarefaModel", () =>
+        {
+            return new [] { new TarefaModel() };
+        })
+        .WithName("GetAllTarefaModels")
+        .Produces<TarefaModel[]>(StatusCodes.Status200OK);
+
+        routes.MapGet("/api/TarefaModel/{id}", (int id) =>
+        {
+            //return new TarefaModel { ID = id };
+        })
+        .WithName("GetTarefaModelById")
+        .Produces<TarefaModel>(StatusCodes.Status200OK);
+
+        routes.MapPut("/api/TarefaModel/{id}", (int id, TarefaModel input) =>
+        {
+            return Results.NoContent();
+        })
+        .WithName("UpdateTarefaModel")
+        .Produces(StatusCodes.Status204NoContent);
+
+        routes.MapPost("/api/TarefaModel/", (TarefaModel model) =>
+        {
+            //return Results.Created($"//api/TarefaModels/{model.ID}", model);
+        })
+        .WithName("CreateTarefaModel")
+        .Produces<TarefaModel>(StatusCodes.Status201Created);
+
+        routes.MapDelete("/api/TarefaModel/{id}", (int id) =>
+        {
+            //return Results.Ok(new TarefaModel { ID = id });
+        })
+        .WithName("DeleteTarefaModel")
+        .Produces<TarefaModel>(StatusCodes.Status200OK);
+    }
+}}
