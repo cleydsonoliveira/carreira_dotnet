@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddEntityFrameworkSqlServer().AddDbContext<DataContext>(
+builder.Services.AddDbContext<DataContext>(
         options => options.UseSqlServer(builder.Configuration.GetConnectionString("connectionString"))
    );
 builder.Services.AddScoped<DataContext, DataContext>();
