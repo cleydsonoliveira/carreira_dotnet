@@ -16,7 +16,9 @@ namespace Models
         [Required(ErrorMessage = "Digite o email do usuário")]
         [EmailAddress(ErrorMessage = "O emial informado não é válido")]
         public string Email { get; set; }
-        public PerfilEnum Perfil { get; set; }
+
+        [Required(ErrorMessage = "Informe o perfil do usuário")]
+        public PerfilEnum? Perfil { get; set; }
 
         [Required(ErrorMessage = "Digite senha do usuário")]
         public string Senha { get; set; }

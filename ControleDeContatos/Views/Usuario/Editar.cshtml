@@ -2,28 +2,29 @@
 @using Models;
 @model UsuarioModel
 @{
-    ViewData["Title"] = "Criar Usuario";
+    ViewData["Title"] = "Editar Usuario";
 }
 <div class="text-center">
-    <h1 class="display-4">Cadastrar Contato</h1>
+    <h1 class="display-4">Editar Contato</h1>
 </div>
-<form asp-controller="Usuario" asp-action="Criar" method="post">
+<form asp-controller="Usuario" asp-action="Editar" method="post">
+    <input type="hidden" asp-for="Id" />
     <div class="mb-3">
         <label for="name" class="form-label">Nome</label>
         <input type="text" asp-for="Nome" class="form-control" placeholder="Digite o nome do usuario">
-        @Html.ValidationMessageFor(x  => x.Nome)
+        @Html.ValidationMessageFor(x => x.Nome)
     </div>
 
     <div class="mb-3">
         <label for="email" class="form-label">Email</label>
         <input type="text" asp-for="Email" class="form-control" placeholder="Digite o e-mail do usuario">
-        @Html.ValidationMessageFor(x  => x.Email)
+        @Html.ValidationMessageFor(x => x.Email)
     </div>
 
     <div class="mb-3">
         <label for="login" class="form-label">Login</label>
         <input type="text" asp-for="Login" class="form-control" placeholder="Digite o login do usuario">
-        @Html.ValidationMessageFor(x  => x.Login)
+        @Html.ValidationMessageFor(x => x.Login)
     </div>
 
     <div class="mb-3">
@@ -33,17 +34,11 @@
             <option value="@PerfilEnum.Admin">Administrador</option>
             <option value="@PerfilEnum.Padrao">Padrão</option>
         </select>
-        @Html.ValidationMessageFor(x  => x.Perfil)
-    </div>
-
-    <div class="mb-3">
-        <label for="senha" class="form-label">Senha</label>
-        <input type="password" asp-for="Senha" class="form-control" placeholder="Digite a senha do usuario">
-        @Html.ValidationMessageFor(x  => x.Senha)
+        @Html.ValidationMessageFor(x => x.Perfil)
     </div>
 
     <div class="d-grid gap-1">
-        <button type="submit" class="btn btn-primary">Adicionar</button>
+        <button type="submit" class="btn btn-primary">Editar</button>
         <a class="btn btn-secondary" asp-controller="Usuario" asp-action="index" role="button">Voltar</a>
     </div>
 </form>
